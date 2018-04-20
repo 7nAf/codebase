@@ -2,4 +2,8 @@ import java.io.*;
 
 
 public class branch1
-{}
+{
+  public static void main()
+  {}
+
+}
